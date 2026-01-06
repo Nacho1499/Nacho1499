@@ -60,6 +60,7 @@ A platform to find, connect, and rate football talents across Nigeria.
 ## 🌐 Connect With Me
 
 📧 **Email:** **emmanueliheanacho04@gmail.com**  
+Discord: **emmanueliheanacho**
 🐙 **GitHub:** [github.com/Nacho1499](https://github.com/Nacho1499)  
 🌍 **Whatsapp:** *08107088346*
 
