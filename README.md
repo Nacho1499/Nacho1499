@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm <strong>Emmanuel Iheanacho</strong></h1>
+<h1 align="center">👋 Hey there, I'm <strong>Emmanuel .C. Iheanacho</strong></h1>
 <h3 align="center">Full-Stack Mobile & Web Developer 🚀 | React Native ⚡ Next.js ⚡ UI/UX</h3>
 
 <p align="center">
