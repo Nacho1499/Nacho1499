@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm <strong>Emmanuel .C. Iheanacho</strong></h1>
+<h1 align="center">👋 Hey there, I'm <strong>Emmanuel C. Iheanacho</strong></h1>
 <h3 align="center">Full-Stack Mobile & Web Developer 🚀 | React Native ⚡ Next.js ⚡ UI/UX</h3>
 
 <p align="center">
@@ -12,60 +12,75 @@
 
 ## 👨‍💻 About Me
 
-🔥 Passionate **Web & Mobile Developer** crafting clean, fast and modern digital experiences.
+🔥 Passionate **Full-Stack Web & Mobile Developer** building **clean, fast, and modern** digital experiences.
 
-- 📱 Building **beautiful mobile apps** with **React Native + Expo**
+- 📱 Crafting **beautiful mobile apps** with **React Native + Expo**
 - ⚡ Developing **high-performance web apps** with **Next.js 15**
-- 🎨 Lover of clean UI, animations & smooth interactions
-- 🧠 Constantly learning & improving
-- 🤝 Open to freelance work, collaboration & team projects
+- 🎨 Focused on **clean UI, smooth animations, and great UX**
+- 🧠 Always **learning, improving, and shipping**
+- 🤝 Open to **freelance, collaboration, and team opportunities**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **📱 Mobile Development**
-- React Native  
-- Expo
-- Nativewind
-- TypeScript  
+### 📱 Mobile
+React Native • Expo • NativeWind • TypeScript  
 
-### **🖥️ Web Development**
-- Next.js (13–15)  
-- TailwindCSS
-- Bootstrap
-- React.js
-- REST / API Integration  
+### 🖥️ Web
+Next.js (13–15) • React • TailwindCSS • Bootstrap • REST APIs  
 
-### **⚙️ Tools & Platforms**
-- Git & GitHub   
-- Firebase  
-- Clerk 
+### ⚙️ Tools
+Git • GitHub • Firebase • Clerk  
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 **RideMe — Ride Booking App (React Native)**
-Uber-style ride-hailing UI with maps, animations & trip tracking.
+### 🔹 RideMe — Ride Booking App  
+Uber-style ride-hailing experience with maps, animations, and trip tracking.
 
-### 🔹 **ChopWell — Recipe App MVP**
-Simple recipe browsing app with onboarding screens and category filters.
+### 🔹 ChopWell — Recipe App MVP  
+Simple recipe browsing with onboarding and smart category filters.
 
-### 🔹 **KickFinder — Football Talent Discovery Platform**
-A platform to find, connect, and rate football talents across Nigeria.
+### 🔹 KickFinder — Football Talent Discovery Platform  
+Connecting and showcasing football talents across Nigeria.
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nacho1499&show_icons=true&theme=radical" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Nacho1499&theme=radical" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nacho1499&theme=react-dark" />
+</p>
+
+---
+
+## 🤝 Availability
+
+Open to:
+
+- Full-time **Junior–Mid Frontend / Full-Stack roles**
+- **Remote internships**
+- **Freelance product development**
+- **Open-source collaboration**
+
 
 ## 🌐 Connect With Me
 
-📧 **Email:** **emmanueliheanacho04@gmail.com**  
-Discord: **emmanueliheanacho**
-🐙 **GitHub:** [github.com/Nacho1499](https://github.com/Nacho1499)  
-🌍 **Whatsapp:** *08107088346*
+📧 **Email:** emmanueliheanacho04@gmail.com  
+💬 **Discord:** emmanueliheanacho  
+🐙 **GitHub:** https://github.com/Nacho1499  
+📱 **WhatsApp:** 08107088346  
 
 ---
 
-## ⭐ Support My Work  
-If you like what I build, consider giving my repositories a ⭐
+## ⭐ Support My Work
 
+If you like what I build, consider giving my repositories a **⭐**  
+It really helps and motivates me to keep building 🚀
